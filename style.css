@@ -1,0 +1,42 @@
+h1 {
+    font-size: 45px;
+    display: flex;
+    justify-content: center;
+}
+
+.box {
+ 
+
+    display: flex;
+}
+
+div{
+    display: block;
+    margin: 50px;
+    margin-bottom: 200px;
+    padding: 20px;
+    border-color: black;
+    border-width: 1px;
+    border-style: solid;
+
+
+}
+
+.imagen{
+  max-width: 300px;
+}
+
+ul li{
+    
+    list-style: none;
+    font-weight: bold;
+
+}
+
+h4, .center{
+    display: flex;
+    justify-content: center;
+}
+h3{
+    font-style: italic;
+}
